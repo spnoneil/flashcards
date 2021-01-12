@@ -1,4 +1,4 @@
-#javaScript,
+#javascript,
 #operators,
 #variables,
 #variable-naming-conventions,
@@ -19,6 +19,28 @@
 #attributes {
     cursor: pointer;
     color: blue;
+}
+
+#javascriptanswer,
+#operatorsanswer,
+#variablesanswer,
+#variable-naming-conventionsanswer,
+#functionsanswer,
+#methodsanswer,
+#argumentsanswer,
+#parametersanswer,
+#returnanswer,
+#chaining-methodsanswer,
+#stringsanswer,
+#booleansanswer,
+#undefinedanswer,
+#nananswer,
+#nullanswer,
+#alertanswer,
+#commentsanswer,
+#jqueryanswer,
+#attributesanswer {
+    display: none;
 }
 
 li:hover {
