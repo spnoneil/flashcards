@@ -1,0 +1,26 @@
+#javaScript,
+#operators,
+#variables,
+#variable-naming-conventions,
+#functions,
+#methods,
+#arguments,
+#parameters,
+#return,
+#chaining-methods,
+#strings,
+#booleans,
+#undefined,
+#nan,
+#null,
+#alert,
+#comments,
+#jquery,
+#attributes {
+    cursor: pointer;
+    color: blue;
+}
+
+li:hover {
+    text-decoration: underline;
+}
