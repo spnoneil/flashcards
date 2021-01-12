@@ -1,6 +1,6 @@
 #javascript,
 #operators,
-#variables,
+#variable,
 #variable-naming-conventions,
 #functions,
 #methods,
@@ -23,7 +23,7 @@
 
 #javascriptanswer,
 #operatorsanswer,
-#variablesanswer,
+#variableanswer,
 #variable-naming-conventionsanswer,
 #functionsanswer,
 #methodsanswer,
@@ -45,4 +45,8 @@
 
 li:hover {
     text-decoration: underline;
+}
+
+.hide {
+    display: none;
 }
